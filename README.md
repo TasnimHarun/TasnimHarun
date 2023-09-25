@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeramiah Poff! <a href="https://www.linkedin.com/in/yourlinkedin/"> </a>
+<h1>Hi, I'm Tasnim Harun! <a href="https://www.linkedin.com/in/tasnim-harun/"> </a>
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
@@ -29,4 +29,4 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/jeramiahpoff
+[linkedin]: https://www.linkedin.com/in/tasnim-harun/
