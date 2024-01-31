@@ -13,7 +13,7 @@
 <h2>📜 Certifications:</h2>
 
   - [PCCET](Link)
-  - [Network+](Link)
+  - [Network+](https://www.credly.com/badges/aa9f7e2b-4110-4894-9c31-a554dee8d897/linked_in_profile)
   - [Splunk Certified Core User](Link)
   - [AZ-900](Link)
 
