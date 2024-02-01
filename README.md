@@ -3,7 +3,7 @@
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
   - [Helpdesk 1](Link)
-  - [C++ Project]([Link](https://github.com/TasnimHarun/C-Legend)) <b><i>(Additional Information)</b></i>
+  - [C++ Project](https://github.com/TasnimHarun/C-Legend) <b><i>(Additional Information)</b></i>
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
 
 <h2>🛡️ Information Security Projects</h2>
